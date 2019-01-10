@@ -1,0 +1,373 @@
+[
+  {
+    "day": "Monday",
+    "schedule": [
+      {
+        "number": 1,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 2,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 3,
+        "is_empty": false,
+        "subject": "Вища математика",
+        "subject_type": "лекция",
+        "placement": "220 (корп. главн.)",
+        "lecturer": "Рибалко А.П."
+      },
+      {
+        "number": 4,
+        "is_empty": false,
+        "subject": "Основи алгоритмізації",
+        "subject_type": "лекция",
+        "placement": "А-5 (корп. 7эт)",
+        "lecturer": "Щербаков О.В."
+      },
+      {
+        "number": 5,
+        "is_empty": false,
+        "subject": "Українська мова (за професійним спрямуванням)",
+        "subject_type": "практ.зан.",
+        "placement": "213 (корп. 1)",
+        "lecturer": "Ходарєва І.М."
+      },
+      {
+        "number": 6,
+        "is_empty": false,
+        "subject": "Українська мова (за професійним спрямуванням)",
+        "subject_type": "практ.зан.",
+        "placement": "213 (корп. 1)",
+        "lecturer": "Ходарєва І.М."
+      }
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "schedule": [
+      {
+        "number": 1,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 2,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 3,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 4,
+        "is_empty": false,
+        "subject": "Вступ до фаху",
+        "subject_type": "лекция",
+        "placement": "46 (корп. Л)",
+        "lecturer": "Щербаков О.В."
+      },
+      {
+        "number": 5,
+        "is_empty": false,
+        "subject": "Іноземна мова (за професійним спрямуванням)",
+        "subject_type": "206 (корп. 1)",
+        "placement": "практ.зан.",
+        "lecturer": "Максимова І.О."
+      },
+      {
+        "number": 6,
+        "is_empty": false,
+        "subject": "Вступ до фаху",
+        "subject_type": "практ.зан.",
+        "placement": "415 (корп. главн.)",
+        "lecturer": "Беседовський О.М."
+      }
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "schedule": [
+      {
+        "number": 1,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 2,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 3,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 4,
+        "is_empty": false,
+        "subject": "Програмування",
+        "subject_type": "лекция",
+        "placement": "А-5 (корп. 7эт)",
+        "lecturer": "Федорченко В.М."
+      },
+      {
+        "number": 5,
+        "is_empty": false,
+        "subject": "Програмування",
+        "subject_type": "лаб.раб.",
+        "placement": "ОЦ-1(А) (корп. главн.)",
+        "lecturer": "Федорченко В.М."
+      },
+      {
+        "number": 6,
+        "is_empty": false,
+        "subject": "Основи алгоритмізації",
+        "subject_type": "лаб.раб.",
+        "placement": "ОЦ-3 (корп. главн.)",
+        "lecturer": "Щербаков О.В."
+      }
+    ]
+  },
+  {
+    "day": "Thursday",
+    "schedule": [
+      {
+        "number": 1,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 2,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 3,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 4,
+        "is_empty": false,
+        "subject": "Вища математика",
+        "subject_type": "лаб.раб.",
+        "placement": "ОЦ-8 (корп. главн.)",
+        "lecturer": "Рибалко А.П."
+      },
+      {
+        "number": 5,
+        "is_empty": false,
+        "subject": "Іноземна мова (за професійним спрямуванням)",
+        "subject_type": "206 (корп. 1)",
+        "placement": "практ.зан.",
+        "lecturer": "Максимова І.О."
+      },
+      {
+        "number": 6,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      }
+    ]
+  },
+  {
+    "day": "Friday",
+    "schedule": [
+      {
+        "number": 1,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 2,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 3,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 4,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 5,
+        "is_empty": false,
+        "subject": "Вища математика",
+        "subject_type": "практ.зан.",
+        "placement": "423 (корп. главн.)",
+        "lecturer": "Рибалко А.П."
+      },
+      {
+        "number": 6,
+        "is_empty": false,
+        "subject": "Вступ до фаху",
+        "subject_type": "лаб.раб.",
+        "placement": "ОЦ-5 (корп. главн.)",
+        "lecturer": "Знахур Л.В."
+      }
+    ]
+  },
+  {
+    "day": "Saturday",
+    "schedule": [
+      {
+        "number": 1,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 2,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 3,
+        "is_empty": false,
+        "subject": "Українська мова (за професійним спрямуванням)",
+        "subject_type": "лекция",
+        "placement": "220 (корп. главн.)",
+        "lecturer": "Черемська О.С."
+      },
+      {
+        "number": 4,
+        "is_empty": false,
+        "subject": "Українська мова (за професійним спрямуванням)",
+        "subject_type": "лекция",
+        "placement": "220 (корп. главн.)",
+        "lecturer": "Черемська О.С."
+      },
+      {
+        "number": 5,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 6,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      }
+    ]
+  },
+  {
+    "day": "Sunday",
+    "schedule": [
+      {
+        "number": 1,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 2,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 3,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 4,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 5,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      },
+      {
+        "number": 6,
+        "is_empty": true,
+        "subject": "-",
+        "subject_type": "-",
+        "placement": "-",
+        "lecturer": "-"
+      }
+    ]
+  }
+]
